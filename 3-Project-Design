@@ -1,1 +1,25 @@
 3-Project-Design
+Project Design Phase
+
+App Flow:
+
+1. User opens ComicCraft-AI.
+2. User enters a story idea or theme.
+3. User selects the story creation option.
+4. App sends the request to the Gemini API.
+5. Gemini generates a creative comic story, characters, and dialogues.
+6. The generated content is displayed on the screen.
+
+UI Design:
+
+- Clean and simple layout with a story idea input box.
+- Clear button for generating the comic story.
+- Generated story and character details are displayed below the input box.
+- Simple and attractive design suitable for comic creation.
+- Responsive design that works on both phone and computer screens.
+
+Design Tools Used:
+
+- Google AI Studio (Build mode) for generating the UI and layout.
+- Google Gemini API for AI-powered comic story creation.
+- GitHub for version control and project submission.
